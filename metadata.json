@@ -1,0 +1,5 @@
+{
+  "name": "AI 얼굴 분석기",
+  "description": "얼굴 사진을 업로드하여 AI가 당신의 얼굴 특징, 인상, 그리고 감정 상태를 분석해주는 웹 애플리케이션입니다.",
+  "requestFramePermissions": []
+}
